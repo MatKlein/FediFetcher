@@ -9,5 +9,4 @@
   "reply-interval-in-hours": 0,
   "home-timeline-length": 200,
   "lock-hours": 1,
-  "on-fail": "https://hc-ping.com/996067b2-2589-4fde-98cd-e52aa3cbfe53"
 }
