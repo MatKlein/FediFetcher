@@ -8,5 +8,5 @@
   "from-notifications": 1,
   "reply-interval-in-hours": 0,
   "home-timeline-length": 200,
-  "lock-hours": 1,
+  "lock-hours": 1
 }
