@@ -3,5 +3,9 @@
   "home-timeline-length": 200,
   "max-bookmarks": 100,
   "max-followings": 100,
+  "max-followers": 100,
+  "from-lists": 1,
+  "max-list-length": 100,
+  "max-list-accounts": 10,
   "from-notifications": 1
 }
